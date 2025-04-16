@@ -127,7 +127,7 @@ To run the bot, you'll need to configure a few sensitive variables. Here's how t
 <summary><b>Deploy on Heroku</b></summary>
 
 1. Fork and Star the repo.
-2. Click [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/Wuhuiuusushsg/Save-Restricted-Content-Bot-v3)).
+2. Click [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/Arjun2222509/Save-Restricted-Content-Bot-v3).
 3. Enter required variables and click deploy ✅.
 
 </details>
